@@ -24,7 +24,7 @@ Applying different machine learning and deep learning algorithms and models , to
 Hybrid model achieved the best balance between accuracy and novelty
 Successfully demonstrated how combining multiple recommender paradigms can enhance personalization and engagement
 
- Author
-
+# Author
 Manveer Singh
 Data Scientist | Machine Learning & AI Enthusiast
+manveersingh104807700@gmail.com
