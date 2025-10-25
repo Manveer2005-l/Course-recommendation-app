@@ -27,4 +27,4 @@ Successfully demonstrated how combining multiple recommender paradigms can enhan
 # Author
 Manveer Singh
 Data Scientist | Machine Learning & AI Enthusiast
-manveersingh104807700@gmail.com
+mssandhuu05@gmail.com
